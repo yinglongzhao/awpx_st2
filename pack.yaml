@@ -1,0 +1,23 @@
+
+ref: awpx_st2
+
+name: awpx_st2
+
+description: test packs
+
+keywords:
+    - example
+    - test
+
+version: 1.0.0
+
+python_versions:
+  - "2"
+  - "3"
+
+author: zhaoyl25
+
+email: zhaoyl25@lenovo.com
+
+contributors:
+  - "zyl <838867921@qq.com>"
